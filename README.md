@@ -34,6 +34,14 @@ Given a sorted array of distinct integers and a target value, return the index i
 
 Use binary search
 
+# 66. Plus One
+
+You are given a large integer represented as an integer array digits, where each digits[i] is the ith digit of the integer. The digits are ordered from most significant to least significant in left-to-right order. The large integer does not contain any leading 0's.
+
+### Idea
+
+Start from the end of the array and save the carry on each addition
+
 # 88. Merge Sorted Array
 
 Merge nums1 and nums2 into a single array sorted in non-decreasing order.
