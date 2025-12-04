@@ -26,6 +26,14 @@ Given an integer array nums and an integer val, remove all occurrences of val in
 
 have a pointer to show the position at which you should insert the next num != value
 
+# 35. Search Insert Position
+
+Given a sorted array of distinct integers and a target value, return the index if the target is found. If not, return the index where it would be if it were inserted in order.
+
+### Idea
+
+Use binary search
+
 # 88. Merge Sorted Array
 
 Merge nums1 and nums2 into a single array sorted in non-decreasing order.
