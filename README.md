@@ -49,3 +49,11 @@ Merge nums1 and nums2 into a single array sorted in non-decreasing order.
 ### Idea
 
 Start from the end of arrays and check element by element
+
+# 108. Convert Sorted Array to Binary Search Tree
+
+Given an integer array nums where the elements are sorted in ascending order, convert it to a height-balanced binary search tree.
+
+### Idea
+
+User recursion to find middle as head and process the left and right array
