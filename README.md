@@ -18,6 +18,14 @@ Given an integer array nums sorted in non-decreasing order, remove the duplicate
 
 Have a variable pointing at the index of nums array that the next value is inseted.
 
+# 27. Remove Element
+
+Given an integer array nums and an integer val, remove all occurrences of val in nums in-place. The order of the elements may be changed. Then return the number of elements in nums which are not equal to val.
+
+### Idea
+
+have a pointer to show the position at which you should insert the next num != value
+
 # 88. Merge Sorted Array
 
 Merge nums1 and nums2 into a single array sorted in non-decreasing order.
