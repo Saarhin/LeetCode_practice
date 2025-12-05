@@ -57,3 +57,11 @@ Given an integer array nums where the elements are sorted in ascending order, co
 ### Idea
 
 User recursion to find middle as head and process the left and right array
+
+# 118_Pascal_Triangle
+
+Given an integer numRows, return the first numRows of Pascal's triangle.
+
+### Idea
+
+nested for loops will solve it.
