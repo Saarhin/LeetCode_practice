@@ -58,10 +58,18 @@ Given an integer array nums where the elements are sorted in ascending order, co
 
 User recursion to find middle as head and process the left and right array
 
-# 118_Pascal_Triangle
+# 118 Pascal's Triangle
 
 Given an integer numRows, return the first numRows of Pascal's triangle.
 
 ### Idea
 
 nested for loops will solve it.
+
+# 136. Single Number
+
+Given a non-empty array of integers nums, every element appears twice except for one. Find that single one.
+
+### Idea
+
+you should check the properties of XOR
